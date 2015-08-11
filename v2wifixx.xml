@@ -3,6 +3,7 @@
     <project name="Pentahex/android_device_samsung_v2wifixx" path="device/samsung/v2wifixx" remote="github" revision="cm-12.1" />
     <project name="Pentahex/android_vendor_samsung_v2wifixx" path="vendor/samsung/v2wifixx" remote="github" revision="CM-12.1" />
     <project name="Pentahex/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="cm-12.1" />
+    <project name="CyanogenMod/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="cm-12.1" />
     <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
     <project name="CyanogenMod/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" />
     <project name="CyanogenMod/android_hardware_samsung_slsi_exynos5-insignal" path="hardware/samsung_slsi/exynos5-insignal" remote="github" />
